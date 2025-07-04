@@ -4,7 +4,9 @@ scikit-learn
 tensorboard
 matplotlib
 scikeras
-tensorflow==2.10.1
-keras==2.10.0
-streamlit==1.32.2
+tensorflow==2.9.3
+keras==2.9.0
+streamlit==1.18.0
+numpy==1.23.5
+
 
